@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently employed as a Software Development Engineer (SDE) at a FAANG company, where I focus on developing scalable backend services. My responsibilities include designing application architecture, creating internal libraries to support operational research problems, data analytics and managing Continuous Integration/Continuous Deployment (CI/CD) software pipelines.
 
-I am currently employed as a Software Development Engineer (SDE) at a prestigious FAANG company, focusing on the development of scalable backend services. My daily tasks include creating internal libraries to facilitate optimization research and data analytics, as well as managing Continuous Integration/Continuous Deployment (CI/CD) software pipelines.
-
-Alongside my professional engagements in the day, I am deeply involved in independent research after I sign off work. My passion for machine learning drives me to constantly explore academic papers, books, and practical implementations.
+Alongside my professional commitments, I devote significant time to research after my work hours, particularly in areas related to machine learning. My passion for machine learning drives me to constantly explore academic papers, books, and practical implementations.
 
 
 Research Interest
