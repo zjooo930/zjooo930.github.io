@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jay Huang 
+title                    : "Jay Huang"
 title_separator          : "-"
 name                     : &name "Jay Huang"
 description              : &description "personal description"
